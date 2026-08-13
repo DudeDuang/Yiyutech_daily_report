@@ -1,0 +1,12 @@
+CC BY 4.0 — Creative Commons Attribution 4.0 International
+
+本仓库的日志与文档内容（logs/、templates/、README.md）采用
+知识共享署名 4.0 国际许可协议（CC BY 4.0）授权。
+
+你可以自由地共享（复制、分发）和演绎（修改、构建）这些内容，
+前提是保留署名并注明本仓库链接。
+
+- 人类可读摘要：https://creativecommons.org/licenses/by/4.0/
+- 完整法律文本：https://creativecommons.org/licenses/by/4.0/legalcode
+
+注：仓库内的 shell 脚本（*.sh）另行按 MIT 协议授权，见文件头部 SPDX 声明。
